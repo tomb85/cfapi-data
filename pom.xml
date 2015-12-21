@@ -15,7 +15,7 @@
   </properties>
 
   <scm>
-    <developerConnection>scm:git:https://tomb85:Brzoza12#@github.com/tomb85/cfapi-data.git</developerConnection>
+    <developerConnection>scm:git:https://github.com/tomb85/cfapi-data.git</developerConnection>
   </scm>
 
   <distributionManagement>
