@@ -3,7 +3,7 @@
 
   <groupId>com.cryptostrategies</groupId>
   <artifactId>cfapi-data</artifactId>
-  <version>1.0-RC1</version>
+  <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>cfapi-data</name>
@@ -16,7 +16,6 @@
 
   <scm>
     <developerConnection>scm:git:https://tomb85:Brzoza12#@github.com/tomb85/cfapi-data.git</developerConnection>
-    <tag>cfapi-data-1.0-RC1</tag>
   </scm>
 
   <distributionManagement>
