@@ -15,6 +15,10 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
   </properties>
 
+  <scm>
+    <developerConnection>scm:git:https://tomb85:Brzoza12#github.com/tomb85/cfapi-data.git</developerConnection>
+  </scm>
+
   <distributionManagement>
   	<repository>
 	    <id>nexus.repo</id>
